@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am Set Kyar Wa Lar. A Software Engineer from Myanmar.
+I am Set Kyar Wa Lar. A passionate Software Engineer.
+
 
 ## Personal Blog
 
