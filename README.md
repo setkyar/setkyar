@@ -5,6 +5,7 @@ I am Set Kyar Wa Lar. A passionate Software Engineer.
 
 ## Personal Projects
 
+- [AI-Pik.com](https://ai-pik.com)
 - [MyanmarDevJobs.com](https://myanmardevjobs.com)
 
 ## Personal Links
