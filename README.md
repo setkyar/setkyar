@@ -2,7 +2,6 @@
 
 I am Set Kyar Wa Lar. A passionate Software Engineer.
 
-
 ## Personal Projects
 
 - [AI-Pik.com](https://ai-pik.com)
@@ -19,3 +18,8 @@ I am Set Kyar Wa Lar. A passionate Software Engineer.
 - [Setting Up a Laravel Application on EC2 Instance Using Operative Bash | Step-by-Step Tutorial
 ](https://www.youtube.com/watch?v=TeEVQKThpTw)
 - [Setting Up an Express JS on EC2 Instance Using Operative Bash | Step-by-Step Tutorial](https://www.youtube.com/watch?v=uXaxbxgYus0)
+
+## Resources for community
+
+- [Go by example in Burmese](https://setkyar.github.io/gobyexample)
+- [YGNCode - Articles in Burmese](https://www.ygncode.com)
